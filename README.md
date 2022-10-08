@@ -1,5 +1,11 @@
 # 20-Tableau-Challenge
 
+## Visualisation Solution
+
+* [Solution](https://public.tableau.com/app/profile/kaumudi2211/viz/TableauHW_Final_03102022-CitiBikeAnalytics/CITYBikeStory)
+
+
+## Write Up Solution
 
 Analysis on the phenomenons uncovered.
 
